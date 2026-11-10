@@ -1,0 +1,10 @@
+# Dépendances requises pour l'application HarmoniqLab
+# Système de Détection de Notes et Accordeur Chromatique en Temps Réel
+
+numpy>=1.26.0
+scipy>=1.11.0
+sounddevice>=0.4.6
+PyQt6>=6.5.0
+matplotlib>=3.8.0
+pytest>=8.0.0
+pyinstaller>=6.0.0
